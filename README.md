@@ -71,7 +71,7 @@
  ```$ bash <(curl -L https://t.ly/LpaQ)```
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tharumin/Hashzi-X)
 
 
 > [සම්පූර්ණ සිංහල tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
